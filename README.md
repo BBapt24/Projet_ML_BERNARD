@@ -9,14 +9,16 @@ et de rendre leur taille plus petite pour réaliser des fonctions dans lesquels 
 excellent déjà (classification d'images ou "domain generalization" par exemple).
 
 
+*I- Tests des deux modèles*
 
 
 
 
+*II- Création et test du modèle personnalisé*
 
 
 
-
+*III- Vers de meilleurs modèles*
 
 
 
