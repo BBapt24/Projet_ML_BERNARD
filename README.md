@@ -29,9 +29,11 @@ Dans le cadre de ce projet, j'ai décidé d'implémenter le modèle ResNet 18 co
 
 ## *II- Transformers*
 
+Dans cette partie, nous allons utiliser un certain type de Transformer appelé : Vision Transformers (ViT). Il s'agit d'une architecture qui utilise des mécanismes d'auto-attention pour traiter les images. Les ViT consistent en une série de blocs transformers et d'un MLP en sortie afin de classer les catégories d'image dans ce cas par exemple.
+
 
 ![vision-transformer-vit](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/e1f67346-cbb3-46dd-80d1-cc8429071e0a)
-
+**Figure x - Descriptif des différentes architectures de ResNet [1]**
 
 
 
