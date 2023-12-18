@@ -21,6 +21,8 @@ La seconde architecture sera un modèle de Transformers dont je détaillerai l'a
 
 *Bibliographie*
 
-[1] https://arxiv.org/pdf/1905.11946v5.pdf (papier de recherche de présentation de EfficientNet v1).
+[1] https://arxiv.org/pdf/1512.03385.pdf (papier de recherche introduisant le modèle ResNet).
 
-[2] https://arxiv.org/pdf/2104.00298.pdf (papier de recherche de présentation de EfficientNet v2).
+[2] https://arxiv.org/pdf/2010.11929v2.pdf (papier de recherche introduisant les Vision Transformers).
+
+
