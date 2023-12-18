@@ -25,6 +25,11 @@ Dans le cadre de ce projet, j'ai décidé d'implémenter le modèle ResNet 18 co
 
 *1. Entraînement du modèle*
 
+En premier lieu, il est important de déterminer les hyperparamètres du modèle. 
+
+![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/8862dc5f-dfe4-4efe-98ec-cca90fb131d4)
+
+
 
 
 *2. Résultats & commentaires*
