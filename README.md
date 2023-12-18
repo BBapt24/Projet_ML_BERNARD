@@ -34,7 +34,7 @@ En premier lieu, il est important de déterminer les hyperparamètres du modèle
 
 **Figure 3 - Loss en fonction du Learning Rate**
 
-Après
+Après 
 
 
 
@@ -78,7 +78,7 @@ Après avoir
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/da88d700-64ab-48e4-90f1-daee4ff2234e)
 
 
-**Figure  8 - Résultats avec les meilleurs hyperparamètres trouvés*
+**Figure  8 - Résultats avec les meilleurs hyperparamètres trouvés**
 
 
 
