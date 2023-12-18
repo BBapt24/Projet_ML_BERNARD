@@ -78,7 +78,8 @@ En guise d'exemple, voici les r√©sutats que j'ai obtenu lors des premiers entra√
 **Figure  - Architecture et fonctionnement global d'un ViT [3]**
 
 
-![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/53987fa2-b551-43ce-b0e1-62aff7a4a50e)
+![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/da88d700-64ab-48e4-90f1-daee4ff2234e)
+
 
 **Figure  - Architecture et fonctionnement global d'un ViT [3]**
 
