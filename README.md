@@ -78,6 +78,13 @@ En guise d'exemple, voici les résutats que j'ai obtenu lors des premiers entra�
 **Figure  - Architecture et fonctionnement global d'un ViT [3]**
 
 
+![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/53987fa2-b551-43ce-b0e1-62aff7a4a50e)
+
+**Figure  - Architecture et fonctionnement global d'un ViT [3]**
+
+
+
+
 ## *Conclusion*
 
 Finalement, les résultats obtenus à l'issu de cette expérience sont contre-intuitifs. En effet, malgré l'évidente efficacité du modèle de Vision Transformer, on peut discuter de l'intérêt de leur mise en place lors d'exemples comme celui-ci où des méthodes moins coûteuses et mieux documentées fonctionnent déjà. 
