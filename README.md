@@ -78,7 +78,7 @@ Après avoir
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/da88d700-64ab-48e4-90f1-daee4ff2234e)
 
 
-**Figure  - Architecture et fonctionnement global d'un ViT [3]**
+**Figure  8 - Résultats avec les meilleurs hyperparamètres trouvés*
 
 
 
