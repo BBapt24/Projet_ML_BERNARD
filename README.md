@@ -2,24 +2,21 @@
 
 *Introduction*
 
-Dans le cadre de mon projet de Machine Learning, je propose de me pencher sur
-un type particulier de réseaux de neurones de type ConvNets: EfficientNet.
-Introduit en 2019, ce modèle a pour objectif de réduire la taille des réseaux ConvNet 
-et de rendre leur taille plus petite pour réaliser des fonctions dans lesquels ils 
-excellent déjà (classification d'images ou "domain generalization" par exemple).
+Depuis leur introduction en 2017, les réseaux de neurones de type transformers semblent avoir pris le pas sur tous les autres types de réseaux et ce, quel que soit le type de problème à résoudre. C'est pourquoi, dans le cadre de mon projet de Machine Learning, je propose de s'atteler à un problème classique de classification d'image en étudiant deux architectures de réseaux face à la base de données  xxx. 
+La première architecture sera une version simple de ResNet, un type de réseaux qui a été conçu pour résoudre ce type de problème.
+La seconde architecture sera un modèle de Transformers dont je détaillerai l'architecture et la création par la suite.
 
-
-*I- Tests des deux modèles*
+*I- ResNet*
 
 
 
 
-*II- Création et test du modèle personnalisé*
+*II- Transformers*
 
 
 
-*III- Vers de meilleurs modèles*
 
+*Conclusion*
 
 
 *Bibliographie*
