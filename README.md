@@ -28,11 +28,13 @@ Dans le cadre de ce projet, j'ai décidé d'implémenter le modèle ResNet 18 co
 
 *1. Entraînement du modèle*
 
-En premier lieu, il est important de déterminer les hyperparamètres du modèle. Le paramètre le plus important pour ce type de réseau est le Learning Rate
+En premier lieu, il est important de déterminer les hyperparamètres du modèle. Le paramètre le plus important pour ce type de réseau est le Learning Rate, c'est pourquoi on se propose d'utiliser une fonction learning rate finder qui permettra de déterminer la valeur de ce derinier.
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/8862dc5f-dfe4-4efe-98ec-cca90fb131d4)
 
 **Figure 3 - Loss en fonction du Learning Rate**
+
+Après
 
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/8ec66a24-19e0-4242-9c0c-a0f1de71520d)
