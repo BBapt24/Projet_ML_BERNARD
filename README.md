@@ -33,7 +33,7 @@ Dans cette partie, nous allons utiliser un certain type de Transformer appelé :
 
 
 ![vision-transformer-vit](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/e1f67346-cbb3-46dd-80d1-cc8429071e0a)
-**Figure x - Descriptif des différentes architectures de ResNet [1]**
+**Figure 7 - Architecture et fonctionnement global d'un ViT [3]**
 
 
 
