@@ -73,9 +73,6 @@ J'ai eu beaucoup de difficultés à implémenter ce second modèle de réseaux d
 
 En guise d'exemple, voici les résutats que j'ai obtenu lors des premiers entraînements de mon modèle sur CIFAR-10.
 
-![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/fba8a1b6-f1bb-4e91-bd83-728bb57514ab)
-
-**Figure  - Architecture et fonctionnement global d'un ViT [3]**
 
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/da88d700-64ab-48e4-90f1-daee4ff2234e)
