@@ -29,24 +29,24 @@ En premier lieu, il est important de déterminer les hyperparamètres du modèle
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/8862dc5f-dfe4-4efe-98ec-cca90fb131d4)
 
-**Figure 2 - Descriptif des différentes architectures de ResNet [1]**
+**Figure 2 - **
 
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/8ec66a24-19e0-4242-9c0c-a0f1de71520d)
 
-**Figure 3 - Descriptif des différentes architectures de ResNet [1]**
+**Figure 3 - **
 
 
 *2. Résultats & commentaires*
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/db43b6a0-c2dc-4685-93c6-827a1b48e237)
 
-**Figure 4 - Descriptif des différentes architectures de ResNet [1]**
+**Figure 4 - **
 
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/4d719745-21d6-48e9-aad8-362802b9d3b2)
 
-**Figure 5 - Descriptif des différentes architectures de ResNet [1]**
+**Figure 5 - **
 
 ## *II- Transformers*
 
@@ -68,11 +68,13 @@ Dans le cadre de ce projet, j'ai décidé d'implémenter un modèle de ViT à 12
 
 *2. Résultats & commentaires*
 
-J'ai eu beaucoup de difficultés à implémenter ce second modèle de réseaux de neurones. En effet, du fait du nombre élevé d'hyperparamètres différents, de la multiplicité des utilisations des ViT et du fait 
+J'ai eu beaucoup de difficultés à implémenter ce second modèle de réseaux de neurones. En effet, du fait du nombre élevé d'hyperparamètres différents, de la multiplicité des utilisations des ViT, je me suis un peu perdu dans les papiers de recherches et n'ait pas réussi à en tirer un modèle satisfaisant pour cette expérience.
+
+En guise d'exemple, voici les résutats que j'ai obtenu lors des premiers entraînements de mon modèle sur CIFAR-10.
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/fba8a1b6-f1bb-4e91-bd83-728bb57514ab)
 
-**Figure 6 - Architecture et fonctionnement global d'un ViT [3]**
+**Figure  - Architecture et fonctionnement global d'un ViT [3]**
 
 
 ## *Conclusion*
