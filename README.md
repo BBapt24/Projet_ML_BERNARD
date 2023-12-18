@@ -68,6 +68,8 @@ Dans le cadre de ce projet, j'ai décidé d'implémenter un modèle de ViT à 12
 
 *2. Résultats & commentaires*
 
+J'ai eu beaucoup de difficultés à implémenter ce second modèle de réseaux de neurones. En effet, du fait du nombre élevé d'hyperparamètres différents, de la multiplicité des utilisations des ViT et du fait 
+
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/fba8a1b6-f1bb-4e91-bd83-728bb57514ab)
 
 **Figure 6 - Architecture et fonctionnement global d'un ViT [3]**
