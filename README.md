@@ -40,6 +40,9 @@ En premier lieu, il est important de déterminer les hyperparamètres du modèle
 *2. Résultats & commentaires*
 
 
+
+
+
 ## *II- Transformers*
 
 Dans cette partie, nous allons utiliser un certain type de Transformer appelé : Vision Transformers (ViT). Il s'agit d'une architecture qui utilise des mécanismes d'auto-attention pour traiter les images. Les ViT consistent en une série de blocs transformers et d'un MLP en sortie afin de classer les catégories d'image dans ce cas par exemple.
@@ -55,8 +58,14 @@ Dans le cadre de ce projet, j'ai décidé d'implémenter un modèle de ViT à 12
 *1. Entraînement du modèle*
 
 
+
+
+
 *2. Résultats & commentaires*
 
+![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/fba8a1b6-f1bb-4e91-bd83-728bb57514ab)
+
+**Figure 6 - Architecture et fonctionnement global d'un ViT [3]**
 
 
 ## *Conclusion*
