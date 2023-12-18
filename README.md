@@ -18,7 +18,7 @@ Introduit en 2015, cette architecture est donc très pratique pour réaliser des
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/675134cb-5e3d-46f4-a30e-cd60ce28cb3f)
 **Figure 1 - Descriptif des différentes architectures de ResNet [1]**
 
-Dans le cadre de ce projte, j'ai décidé d'implémenter le modèle ResNet 18 couches à l'aide de pytorch puis de l'entrainer sur la base CIFAR-10. Pour ce faire, je me suis inspiré du travail d'un tutoriel donné en annexe [3].
+Dans le cadre de ce projet, j'ai décidé d'implémenter le modèle ResNet 18 couches à l'aide de pytorch puis de l'entrainer sur la base CIFAR-10. Pour ce faire, je me suis inspiré du travail d'un tutoriel donné en annexe [3].
 
 
 
