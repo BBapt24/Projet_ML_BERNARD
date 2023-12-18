@@ -57,7 +57,7 @@ Dans cette partie, nous allons utiliser un certain type de Transformer appelé :
 
 **Figure 6 - Architecture et fonctionnement global d'un ViT [3]**
 
-Dans le cadre de ce projet, j'ai décidé d'implémenter un modèle de ViT à 12 couches de Transformers à l'aide de pytorch puis de l'entrainer sur la base CIFAR-10. Pour ce faire, je me suis inspiré du travail d'un tutoriel donné en annexe [4].
+Dans le cadre de ce projet, j'ai décidé d'implémenter un modèle de ViT à 12 couches de Transformers à l'aide de pytorch puis de l'entrainer sur la base CIFAR-10. Pour ce faire, je me suis inspiré du travail d'un tutoriel donné en annexe [4]. Malheureusement, j'ai eu énormément de difficultés à réaliser cette implémentation et ressort finalement avec peu de résultats probants. Je propose donc de décrire l'état de mon travail sur ce modèle mais suis pe confiant quant à la pertinence des résultats avancés.
 
 
 *1. Entraînement du modèle*
