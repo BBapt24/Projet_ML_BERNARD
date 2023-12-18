@@ -29,8 +29,12 @@ En premier lieu, il est important de déterminer les hyperparamètres du modèle
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/8862dc5f-dfe4-4efe-98ec-cca90fb131d4)
 
+**Figure 2 - Descriptif des différentes architectures de ResNet [1]**
+
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/8ec66a24-19e0-4242-9c0c-a0f1de71520d)
+
+**Figure 3 - Descriptif des différentes architectures de ResNet [1]**
 
 
 *2. Résultats & commentaires*
@@ -43,7 +47,7 @@ Dans cette partie, nous allons utiliser un certain type de Transformer appelé :
 
 ![vision-transformer-vit](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/e1f67346-cbb3-46dd-80d1-cc8429071e0a)
 
-**Figure 7 - Architecture et fonctionnement global d'un ViT [3]**
+**Figure 6 - Architecture et fonctionnement global d'un ViT [3]**
 
 Dans le cadre de ce projet, j'ai décidé d'implémenter un modèle de ViT à 12 couches de Transformers à l'aide de pytorch puis de l'entrainer sur la base CIFAR-10. Pour ce faire, je me suis inspiré du travail d'un tutoriel donné en annexe [4].
 
