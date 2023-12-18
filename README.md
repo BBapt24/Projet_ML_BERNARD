@@ -4,6 +4,9 @@
 
 Depuis leur introduction en 2017, les réseaux de neurones de type transformers semblent avoir pris le pas sur tous les autres types de réseaux et ce, quel que soit le type de problème à résoudre. C'est pourquoi, dans le cadre de mon projet de Machine Learning, je propose de s'atteler à un problème classique de classification d'image en étudiant deux architectures de réseaux face à la base de données CIFAR-10 (*CIFAR-10 se compose de 60000 images couleur 32x32 réparties en 10 classes, avec 6000 images par classe. Il y a 50000 images d'apprentissage et 10000 images de test.*). 
 
+![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/986b1371-1640-457a-9947-660e6d783e51)
+
+**Figure 1 - Illustration de CIFAR-10**
 
 La première architecture sera une version simple de ResNet, un type de réseaux qui a été conçu pour résoudre ce type de problème.
 La seconde architecture sera un modèle de Transformers dont je détaillerai l'architecture et la création par la suite.
@@ -17,7 +20,7 @@ Introduit en 2015, cette architecture est donc très pratique pour réaliser des
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/675134cb-5e3d-46f4-a30e-cd60ce28cb3f)
 
-**Figure 1 - Descriptif des différentes architectures de ResNet [1]**
+**Figure 2 - Descriptif des différentes architectures de ResNet [1]**
 
 
 
@@ -29,24 +32,24 @@ En premier lieu, il est important de déterminer les hyperparamètres du modèle
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/8862dc5f-dfe4-4efe-98ec-cca90fb131d4)
 
-**Figure 2 - **
+**Figure 3 - **
 
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/8ec66a24-19e0-4242-9c0c-a0f1de71520d)
 
-**Figure 3 - **
+**Figure 4 - **
 
 
 *2. Résultats & commentaires*
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/db43b6a0-c2dc-4685-93c6-827a1b48e237)
 
-**Figure 4 - **
+**Figure 5 - **
 
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/4d719745-21d6-48e9-aad8-362802b9d3b2)
 
-**Figure 5 - **
+**Figure 6 - **
 
 ## *II- Transformers*
 
@@ -55,7 +58,7 @@ Dans cette partie, nous allons utiliser un certain type de Transformer appelé :
 
 ![vision-transformer-vit](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/e1f67346-cbb3-46dd-80d1-cc8429071e0a)
 
-**Figure 6 - Architecture et fonctionnement global d'un ViT [3]**
+**Figure 7 - Architecture et fonctionnement global d'un ViT [3]**
 
 Dans le cadre de ce projet, j'ai décidé d'implémenter un modèle de ViT à 12 couches de Transformers à l'aide de pytorch puis de l'entrainer sur la base CIFAR-10. Pour ce faire, je me suis inspiré du travail d'un tutoriel donné en annexe [4]. Malheureusement, j'ai eu énormément de difficultés à réaliser cette implémentation et ressort finalement avec peu de résultats probants. Je propose donc de décrire l'état de mon travail sur ce modèle mais suis pe confiant quant à la pertinence des résultats avancés.
 
