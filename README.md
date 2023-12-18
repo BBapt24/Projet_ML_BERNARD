@@ -20,14 +20,19 @@ Introduit en 2015, cette architecture est donc très pratique pour réaliser des
 
 Dans le cadre de ce projet, j'ai décidé d'implémenter le modèle ResNet 18 couches à l'aide de pytorch puis de l'entrainer sur la base CIFAR-10. Pour ce faire, je me suis inspiré du travail d'un tutoriel donné en annexe [3].
 
+1. Entraînement du modèle
 
 
+2. Résultats & commentaires
 
 
 ## *II- Transformers*
 
 
+1. Entraînement du modèle
 
+
+2. Résultats & commentaires
 
 
 
