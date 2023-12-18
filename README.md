@@ -34,7 +34,7 @@ En premier lieu, il est important de déterminer les hyperparamètres du modèle
 
 **Figure 3 - Loss en fonction du Learning Rate**
 
-Après 
+Après analyse de la courbe, on trouve donc que le learning rate optimal est compris entre 
 
 
 
