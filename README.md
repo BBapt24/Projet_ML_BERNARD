@@ -19,6 +19,8 @@ Introduit en 2015, cette architecture est donc très pratique pour réaliser des
 
 **Figure 1 - Descriptif des différentes architectures de ResNet [1]**
 
+
+
 Dans le cadre de ce projet, j'ai décidé d'implémenter le modèle ResNet 18 couches à l'aide de pytorch puis de l'entrainer sur la base CIFAR-10. Pour ce faire, je me suis inspiré du travail d'un tutoriel donné en annexe [3].
 
 *1. Entraînement du modèle*
@@ -37,7 +39,7 @@ Dans cette partie, nous allons utiliser un certain type de Transformer appelé :
 
 **Figure 7 - Architecture et fonctionnement global d'un ViT [3]**
 
-
+Dans le cadre de ce projet, j'ai décidé d'implémenter un modèle de ViT à 12 couches de Transformers à l'aide de pytorch puis de l'entrainer sur la base CIFAR-10. Pour ce faire, je me suis inspiré du travail d'un tutoriel donné en annexe [4].
 
 
 *1. Entraînement du modèle*
@@ -64,6 +66,6 @@ Ainsi, ce travail m'a permis de constater que les réseaux convolutionnels tels 
 
 [3] https://towardsdev.com/implement-resnet-with-pytorch-a9fb40a77448 (tutoriel d'implémentation de ResNet sous Pytorch)
 
-[4]
+[4] https://medium.com/mlearning-ai/vision-transformers-from-scratch-pytorch-a-step-by-step-guide-96c3313c2e0c (tutoriel d'implémentation de ViT sous Pytorch)
 
 
