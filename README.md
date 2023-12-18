@@ -23,10 +23,17 @@ Dans le cadre de ce projet, j'ai décidé d'implémenter le modèle ResNet 18 co
 *1. Entraînement du modèle*
 
 
+
 *2. Résultats & commentaires*
 
 
 ## *II- Transformers*
+
+
+![vision-transformer-vit](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/e1f67346-cbb3-46dd-80d1-cc8429071e0a)
+
+
+
 
 
 *1. Entraînement du modèle*
