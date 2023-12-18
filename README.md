@@ -71,7 +71,7 @@ Dans le cadre de ce projet, j'ai décidé d'implémenter un modèle de ViT à 12
 
 J'ai eu beaucoup de difficultés à implémenter ce second modèle de réseaux de neurones. En effet, du fait du nombre élevé d'hyperparamètres différents, de la multiplicité des utilisations des ViT, je me suis un peu perdu dans les papiers de recherches et n'ait pas réussi à en tirer un modèle satisfaisant pour cette expérience.
 
-En guise d'exemple, voici les résutats que j'ai obtenu lors des premiers entraînements de mon modèle sur CIFAR-10.
+Après avoir 
 
 
 
