@@ -40,7 +40,7 @@ Essayons donc de jouer sur ce learning rate afin d'avoir une meilleure accuracy 
 
 *2. Résultats & commentaires*
 
-
+Après avoir joué avec le learning rate (et avoir fait varier d'autres hyperparamètres, comme la batch size, qui n'améliorent pas l'accuracy du modèle de manière significative), on trouve un learning rate optimal à 2.10-4 et une accuracy optimal pour ce modèle d'environ 90%. 
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/db43b6a0-c2dc-4685-93c6-827a1b48e237)
 
@@ -50,6 +50,8 @@ Essayons donc de jouer sur ce learning rate afin d'avoir une meilleure accuracy 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/4d719745-21d6-48e9-aad8-362802b9d3b2)
 
 **Figure 5 - Résultats améliorés avec modification du learning rate**
+
+L'accuracy est faible mais le modèle est peu lourd et vite entraîné. On a donc un compromis viable pour de la classification d'image si on prend un modèle plus élaboré de ResNet qui permettrait d'obtenir une meilleure accuracy par exemple.
 
 ## *II- Transformers*
 
