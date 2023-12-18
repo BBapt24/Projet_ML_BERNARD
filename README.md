@@ -63,7 +63,7 @@ Dans le cadre de ce projet, j'ai décidé d'implémenter un modèle de ViT à 12
 
 *1. Entraînement du modèle*
 
-
+La première difficulté rencontrée avec ce modèle 
 
 
 
@@ -81,6 +81,7 @@ Après avoir
 **Figure  8 - Résultats avec les meilleurs hyperparamètres trouvés**
 
 
+Enfin, lors de l'étape d'analyse de mes résultats j'ai trouvé plusieurs sources selon lesquelles les ViT ne sont pas si efficaces sur des "petites" bases d'apprentissages telles que CIFAR-10 [5]. De là à en conclure que les résultats décevant que j'obtiens avec mon modèle de ViT sont dus à celà, je pense que ce serait excessif. En effet, je remarque bien que le modèle que j'utilise est encore améliorable et je pense que ce résultat pourrait être différent après plus d'heures de travail à l'optimiser.
 
 
 ## *Conclusion*
@@ -101,5 +102,7 @@ Ainsi, ce travail m'a permis de constater que les réseaux convolutionnels tels 
 [3] https://towardsdev.com/implement-resnet-with-pytorch-a9fb40a77448 (tutoriel d'implémentation de ResNet sous Pytorch)
 
 [4] https://medium.com/mlearning-ai/vision-transformers-from-scratch-pytorch-a-step-by-step-guide-96c3313c2e0c (tutoriel d'implémentation de ViT sous Pytorch)
+
+[5] https://arxiv.org/pdf/2302.03751.pdf (papier expliquant que les ViT ont des lacunes sur des bases telles que CIFAR-10 par exemple)
 
 
