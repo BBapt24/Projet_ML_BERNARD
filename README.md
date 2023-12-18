@@ -29,6 +29,8 @@ Dans le cadre de ce projte, j'ai décidé d'implémenter le modèle ResNet 18 co
 
 
 
+
+
 ## *Conclusion*
 
 
