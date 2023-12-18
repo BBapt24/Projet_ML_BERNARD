@@ -12,7 +12,7 @@ La seconde architecture sera un modèle de Transformers dont je détaillerai l'a
 
 ResNet (Residual Networks) est une architecture de réseau neuronal profond qui a introduit le concept de bloc résiduel, permettant de résoudre le problème de la disparition du gradient dans les réseaux profonds. L'idée clé derrière ResNet est d'introduire des connexions résiduelles (skip connections) entre les couches, ce qui permet au modèle d'apprendre les résidus plutôt que les fonctions directes. 
 
-Introduit en 2015, cette architecture est donc très pratique pour réaliser 
+Introduit en 2015, cette architecture est donc très pratique pour réaliser des tâches habituellement confiées à des réseaux de convolution avec une meilleure convergence que la plupart des modèles le précédant. C'est pourquoi on l'utilise pour de la classification d'images ici.
 
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/675134cb-5e3d-46f4-a30e-cd60ce28cb3f)
@@ -30,10 +30,17 @@ Introduit en 2015, cette architecture est donc très pratique pour réaliser
 
 
 
+
+
+
 ## *Bibliographie*
 
 [1] https://arxiv.org/pdf/1512.03385.pdf (papier de recherche introduisant le modèle ResNet).
 
 [2] https://arxiv.org/pdf/2010.11929v2.pdf (papier de recherche introduisant les Vision Transformers).
+
+[3]
+
+[4]
 
 
