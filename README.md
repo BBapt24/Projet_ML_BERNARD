@@ -63,7 +63,7 @@ Dans le cadre de ce projet, j'ai décidé d'implémenter un modèle de ViT à 12
 
 *1. Entraînement du modèle*
 
-La première difficulté rencontrée avec ce modèle est que le temps d'entraînement est bien supérieur à son prédecesseur. Là où 80 epochs donnaient un entrainement de 5 à 10 minutes pour le modèle précédent, le transformer a une taille telle que pour 
+La première difficulté rencontrée avec ce modèle est que le temps d'entraînement est bien supérieur à son prédecesseur. Là où 80 epochs donnaient un entrainement de 5 à 10 minutes pour le modèle précédent, le transformer a une taille telle que pour  
 
 
 
