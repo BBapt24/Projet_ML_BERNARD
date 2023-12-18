@@ -39,9 +39,14 @@ En premier lieu, il est important de déterminer les hyperparamètres du modèle
 
 *2. Résultats & commentaires*
 
+![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/db43b6a0-c2dc-4685-93c6-827a1b48e237)
+
+**Figure 4 - Descriptif des différentes architectures de ResNet [1]**
 
 
+![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/4d719745-21d6-48e9-aad8-362802b9d3b2)
 
+**Figure 5 - Descriptif des différentes architectures de ResNet [1]**
 
 ## *II- Transformers*
 
