@@ -33,7 +33,9 @@ Dans le cadre de ce projet, j'ai décidé d'implémenter le modèle ResNet 18 co
 
 ## *Conclusion*
 
+Finalement, les résultats obtenus à l'issu de cette expérience sont contre-intuitifs. En effet, malgré l'évidente efficacité du modèle de Vision Transformer, on peut discuter de l'intérêt de leur mise en place lors d'exemples comme celui-ci où des méthodes moins coûteuses et mieux documentées fonctionnent déjà. 
 
+Ainsi, ce travail m'a permis de constater que les réseaux convolutionnels tels que ResNet restent une solution efficace et simple d'accès pour de la classification d'image sur ce type de base de données.
 
 
 
