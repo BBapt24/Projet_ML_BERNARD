@@ -42,12 +42,12 @@ Après
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/db43b6a0-c2dc-4685-93c6-827a1b48e237)
 
-**Figure 4 - **
+**Figure 4 - Résultats après premier entrainement**
 
 
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/4d719745-21d6-48e9-aad8-362802b9d3b2)
 
-**Figure 5 - **
+**Figure 5 - Résultats améliorés avec modification du learning rate**
 
 ## *II- Transformers*
 
