@@ -40,6 +40,8 @@ Essayons donc de jouer sur ce learning rate afin d'avoir une meilleure accuracy 
 
 *2. Résultats & commentaires*
 
+
+
 ![image](https://github.com/BBapt24/Projet_ML_BERNARD/assets/150921474/db43b6a0-c2dc-4685-93c6-827a1b48e237)
 
 **Figure 4 - Résultats après premier entrainement**
@@ -71,7 +73,7 @@ La première difficulté rencontrée avec ce modèle est que le temps d'entraîn
 
 J'ai eu beaucoup de difficultés à implémenter ce second modèle de réseaux de neurones. En effet, du fait du nombre élevé d'hyperparamètres différents, de la multiplicité des utilisations des ViT, je me suis un peu perdu dans les papiers de recherches et n'ait pas réussi à en tirer un modèle satisfaisant pour cette expérience.
 
-Après avoir 
+Après avoir optimisé manuellement les hyperparamètres, je trouve des résultats bien loins de ceux auquels je m'attendais : l'accuracy n'est pas si bonne que cela en comparaison avec le modèle ResNet alors que je m'attendais à une accuracy de 99%.
 
 
 
